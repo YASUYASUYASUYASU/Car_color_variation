@@ -89,67 +89,67 @@
   },
   {
     "id": "halfboard_horizontal_2_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -214,13 +214,13 @@
   },
   {
     "id": "halfboard_horizontal_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -329,13 +329,13 @@
   },
   {
     "id": "halfboard_vertical_2_white",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_white",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_white",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_white",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -428,67 +428,67 @@
   },
   {
     "id": "halfboard_horizontal_2_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -553,13 +553,13 @@
   },
   {
     "id": "halfboard_horizontal_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -668,13 +668,13 @@
   },
   {
     "id": "halfboard_vertical_2_silver",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_silver",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_silver",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_silver",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -767,67 +767,67 @@
   },
   {
     "id": "halfboard_horizontal_2_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -892,13 +892,13 @@
   },
   {
     "id": "halfboard_horizontal_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -1007,13 +1007,13 @@
   },
   {
     "id": "halfboard_vertical_2_gray",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gray",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_gray",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gray",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -1106,67 +1106,67 @@
   },
   {
     "id": "halfboard_horizontal_2_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -1231,13 +1231,13 @@
   },
   {
     "id": "halfboard_horizontal_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -1346,13 +1346,13 @@
   },
   {
     "id": "halfboard_vertical_2_black",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_black",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_black",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_black",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -1445,67 +1445,67 @@
   },
   {
     "id": "halfboard_horizontal_2_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -1570,13 +1570,13 @@
   },
   {
     "id": "halfboard_horizontal_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -1685,13 +1685,13 @@
   },
   {
     "id": "halfboard_vertical_2_orange",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_orange",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_orange",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_orange",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -1784,67 +1784,67 @@
   },
   {
     "id": "halfboard_horizontal_2_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -1909,13 +1909,13 @@
   },
   {
     "id": "halfboard_horizontal_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -2024,13 +2024,13 @@
   },
   {
     "id": "halfboard_vertical_2_yellow",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_yellow",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_yellow",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_yellow",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -2123,67 +2123,67 @@
   },
   {
     "id": "halfboard_horizontal_2_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -2248,13 +2248,13 @@
   },
   {
     "id": "halfboard_horizontal_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -2363,13 +2363,13 @@
   },
   {
     "id": "halfboard_vertical_2_lime",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_lime",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_lime",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_lime",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -2462,67 +2462,67 @@
   },
   {
     "id": "halfboard_horizontal_2_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -2587,13 +2587,13 @@
   },
   {
     "id": "halfboard_horizontal_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -2702,13 +2702,13 @@
   },
   {
     "id": "halfboard_vertical_2_gleen",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_gleen",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_gleen",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_gleen",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -2801,67 +2801,67 @@
   },
   {
     "id": "halfboard_horizontal_2_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -2926,13 +2926,13 @@
   },
   {
     "id": "halfboard_horizontal_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -3041,13 +3041,13 @@
   },
   {
     "id": "halfboard_vertical_2_aqua",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_aqua",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_aqua",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_aqua",
     "type": "vehicle_part",
     "symbol": "H"
   }  ,{
@@ -3140,67 +3140,67 @@
   },
   {
     "id": "halfboard_horizontal_2_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_dodgerblue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_dodgerblue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_dodgerblue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_dodgerblue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_dodgerblue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -3265,13 +3265,13 @@
   },
   {
     "id": "halfboard_horizontal_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_dodgerblue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -3380,7 +3380,7 @@
   },
   {
     "id": "halfboard_vertical_2_dodgerblue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_dodgerblue",
     "type": "vehicle_part",
     "symbol": "H"
   },
@@ -3479,67 +3479,67 @@
   },
   {
     "id": "halfboard_horizontal_2_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -3604,13 +3604,13 @@
   },
   {
     "id": "halfboard_horizontal_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -3719,13 +3719,13 @@
   },
   {
     "id": "halfboard_vertical_2_blue",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_blue",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_blue",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_blue",
     "type": "vehicle_part",
     "symbol": "H"
   }  ,{
@@ -3818,67 +3818,67 @@
   },
   {
     "id": "halfboard_horizontal_2_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -3943,13 +3943,13 @@
   },
   {
     "id": "halfboard_horizontal_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -4058,13 +4058,13 @@
   },
   {
     "id": "halfboard_vertical_2_navy",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_navy",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_navy",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_navy",
     "type": "vehicle_part",
     "symbol": "H"
   }  ,{
@@ -4157,67 +4157,67 @@
   },
   {
     "id": "halfboard_horizontal_2_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -4282,13 +4282,13 @@
   },
   {
     "id": "halfboard_horizontal_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -4397,13 +4397,13 @@
   },
   {
     "id": "halfboard_vertical_2_violet",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_violet",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_violet",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_violet",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -4496,67 +4496,67 @@
   },
   {
     "id": "halfboard_horizontal_2_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "="
   },
   {
     "id": "xlhalfboard_horizontal_2_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -4621,13 +4621,13 @@
   },
   {
     "id": "halfboard_horizontal_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -4736,13 +4736,13 @@
   },
   {
     "id": "halfboard_vertical_2_purple",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_purple",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_purple",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_purple",
     "type": "vehicle_part",
     "symbol": "H"
   },{
@@ -4841,61 +4841,61 @@
   },
   {
     "id": "xlhalfboard_horizontal_2_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "="
   },
     {
     "id": "halfboard_ne_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "u"
   },
   {
     "id": "xlhalfboard_ne_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "u"
   },
     {
     "id": "halfboard_nw_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "y"
   },
   {
     "id": "xlhalfboard_nw_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "y"
   },
     {
     "id": "halfboard_se_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "xlhalfboard_se_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "n"
   },
   {
     "id": "halfboard_sw_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "xlhalfboard_sw_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "b"
   },
   {
     "id": "halfboard_vertical_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "j"
   },
@@ -4960,13 +4960,13 @@
   },
   {
     "id": "halfboard_horizontal_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "h"
   },
   {
     "id": "xlhalfboard_horizontal_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "h"
   },
@@ -5075,13 +5075,13 @@
   },
   {
     "id": "halfboard_vertical_2_red",
-    "copy-from": "halfboard",
+    "copy-from": "halfboard_red",
     "type": "vehicle_part",
     "symbol": "H"
   },
   {
     "id": "xlhalfboard_vertical_2_red",
-    "copy-from": "xlhalfboard",
+    "copy-from": "xlhalfboard_red",
     "type": "vehicle_part",
     "symbol": "H"
   }
